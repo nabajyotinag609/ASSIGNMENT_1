@@ -40,5 +40,3 @@ Hello, Nabajyoti Nag! Welcome to the my project.
 * String Concatenation
 * Output Formatting
 * Basic Python Syntax
-
-Just tell me 👍
